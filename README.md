@@ -41,12 +41,13 @@ A fun, terminal-based Pokédex game powered by the [PokeAPI](https://pokeapi.co/
 git clone https://github.com/yourusername/pokedex-cli.git
 cd pokedex-cli
 npm install
+```
 
 ### Run the CLI
 
 ```bash
 npm run dev 
-
+```
 
 ### Example:
 
@@ -86,3 +87,4 @@ Available commands:
 - help
 - exit
 
+```
