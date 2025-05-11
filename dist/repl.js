@@ -20,7 +20,7 @@ export async function startRepl(state) {
         }
         ;
         try {
-            cmd.callback(state);
+            await cmd.callback(state, ...words.slice(1));
         }
         catch (error) {
             console.error("Error executing command:", error);

@@ -2,5 +2,7 @@
 > pokedex@1.0.0 dev
 > npx tsc && node dist/main.js
 
-Your command was: charmander
-Your command was: pikachu
+Pokedex > 
+Throwing a Pokeball at pikachu...
+pikachu was caught!
+Pokedex > 

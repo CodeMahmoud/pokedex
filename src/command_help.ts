@@ -1,4 +1,3 @@
-import type { CLICommand } from "./command";
 import { State } from "./state";
 export async function commandHelp(state: State): Promise<void>  {
     console.log();

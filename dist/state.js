@@ -13,5 +13,6 @@ export function initState() {
         pokeApi: new PokeAPI(),
         nextLocationsURL: null,
         prevLocationsURL: null,
+        capturedPokemon: {},
     };
 }
