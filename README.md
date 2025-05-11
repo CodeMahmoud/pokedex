@@ -86,5 +86,4 @@ Available commands:
 - pokedex
 - help
 - exit
-
 ```
